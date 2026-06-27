@@ -1,20 +1,19 @@
 # Hi, I'm gajini👋
 
 ## About Me
-- Computer Science Student
+- AI/Data Science student
 - Interested in Software Development
 - Learning Java, C, and Operating Systems
 
 ## Skills
-- C
 - Java
 - Python
 - HTML/CSS
 - Git & GitHub
+- Gen AI
 
 ## Projects
-1. AVA
-2. college_sem_mark
+1.AVA
 
 ## Contact
 Email: gajinioffi@gmail.com
